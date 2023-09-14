@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5OTbXqTgQU+A7GxmRKEKkE2b6HyQ24Cljh7qkHOfqvGkS3E32DKyg5ujxhev1a+Jq+cXt6z9VEMvShpEE0nEw==",
+  "success": true,
+  "projectFilePath": "/Users/kesong/workspace/greeter/GreeterClient/GreeterClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/kesong/.nuget/packages/google.protobuf/3.24.3/google.protobuf.3.24.3.nupkg.sha512",
+    "/Users/kesong/.nuget/packages/grpc.core.api/2.57.0/grpc.core.api.2.57.0.nupkg.sha512",
+    "/Users/kesong/.nuget/packages/grpc.net.client/2.57.0/grpc.net.client.2.57.0.nupkg.sha512",
+    "/Users/kesong/.nuget/packages/grpc.net.common/2.57.0/grpc.net.common.2.57.0.nupkg.sha512",
+    "/Users/kesong/.nuget/packages/grpc.tools/2.58.0/grpc.tools.2.58.0.nupkg.sha512",
+    "/Users/kesong/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
